@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "..\\..\\Downloads\\oswald"
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}
